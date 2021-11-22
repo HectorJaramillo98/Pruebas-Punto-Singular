@@ -1,2 +1,3 @@
 # Pruebas-Punto-Singular
-ejercicios de seleccion
+Jaramillo Regino Hector Armando
+Códigos en Java
